@@ -1,8 +1,9 @@
-# Souramoy's Portfolio
+# My Portfolio
 
 A modern, glass-morphism portfolio website built with React, featuring smooth animations, dark/light theme toggle, and stunning visual effects.
 
-![Portfolio Preview](https://via.placeholder.com/800x400?text=Portfolio+Preview)
+<img width="1352" height="596" alt="image" src="https://github.com/user-attachments/assets/e3ff4f7d-086b-4c12-992d-b8d4f1760f7a" />
+
 
 ## ✨ Features
 
@@ -63,33 +64,7 @@ The portfolio features a custom theme system with:
 
 Click on "Souramoy" in the navigation bar to toggle between themes. The theme indicator (🌙/☀️) shows the current theme state.
 
-## 🌟 Featured Projects
 
-### Your Song
-- **Description**: Song recommendation system with amazing UI and multi-language support
-- **Tech Stack**: HTML, CSS, Gemini 2.5 Pro, YouTube API
-- **Live Demo**: [junior-delta.vercel.app](https://junior-delta.vercel.app/)
-
-### AI Career Coach
-- **Description**: AI-powered career guidance platform
-- **Tech Stack**: React, Node.js, AI/ML
-- **Live Demo**: [career-coach-demo.vercel.app](https://career-coach-demo.vercel.app/)
-
-### Nebula UI Kit
-- **Description**: A glassy, neon component library with modern design patterns
-- **Tech Stack**: React, GSAP, CSS
-
-### Parallax Gallery
-- **Description**: Locomotive smooth parallax reels with immersive scrolling
-- **Tech Stack**: React, Locomotive, WebGL
-
-### Spline Hero
-- **Description**: 3D-embedded hero composition with interactive elements
-- **Tech Stack**: React, Spline, Three.js
-
-### Motion Bento
-- **Description**: Bento grid layout with hover depth and micro-interactions
-- **Tech Stack**: GSAP, ScrollTrigger, CSS Grid
 
 ## 📁 Project Structure
 
@@ -169,9 +144,9 @@ The portfolio is fully responsive with breakpoints:
 
 ## 📧 Contact
 
-**Souramoy** - [your-email@example.com](mailto:your-email@example.com)
+**Souramoy** - [souramoys@gmail.com](mailto:souramoys@gmail.com)
 
-Project Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio)
+
 
 ## 📝 License
 
