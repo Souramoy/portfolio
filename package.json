@@ -8,9 +8,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/portfolio.git"
+    "url": "https://github.com/Souramoy/portfolio.git"
   },
-  "homepage": "https://your-portfolio-url.vercel.app",
+  "homepage": "https://souramoy-portfolio.vercel.app",
   "keywords": [
     "portfolio",
     "react",
