@@ -72,7 +72,7 @@ const About = () => {
           <div className="profile-section">
             <div className="profile-image-container">
               <img 
-                src="/src/assets/profile.png" 
+               src="https://github.com/Souramoy/portfolio/blob/main/src/assets/profile.png?raw=true"
                 alt="Souramoy Profile" 
                 className="profile-image"
               />
