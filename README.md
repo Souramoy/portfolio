@@ -17,7 +17,7 @@ A modern, glass-morphism portfolio website built with React, featuring smooth an
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://portfolio-phi-orpin-31.vercel.app/)
+[View Live Portfolio](https://about.souramoy.tech/)
 
 ## 🛠️ Tech Stack
 
